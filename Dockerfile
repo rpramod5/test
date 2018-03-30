@@ -8,6 +8,7 @@ RUN npm install
 
 COPY . .
 
+#TESTING
 
 EXPOSE 3000
 
